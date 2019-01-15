@@ -1,0 +1,12 @@
+# Material Count: 1
+newmtl asteroid_asteroid_texture_full
+Ns 37.254902
+Ka 0.069978 0.069978 0.069978
+Kd 0.640000 0.640000 0.640000
+Ks 0.600000 0.600000 0.600000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Ka asteroid_normals_uv.png
+map_Kd asteroid_texture_solid.png
+map_bump asteroid_normals_uv.png
